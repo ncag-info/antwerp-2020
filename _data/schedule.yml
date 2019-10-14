@@ -1,0 +1,66 @@
+- date: Monday, September 14th
+  slots:
+    [
+      { time: "8:30&ndash;10:00", other: "registration" },
+      { time: "10:05&ndash;10:10", other: "opening" },
+      { time: "10:10&ndash;10:55", talk: buchweitz },
+      { time: "11:00&ndash;11:25", other: "coffee break" },
+      { time: "11:25&ndash;12:10", talk: wemyss },
+      { time: "12:10&ndash;14:00", other: "lunch" },
+      { time: "14:00&ndash;14:45", talk: muro },
+      { time: "14:55&ndash;15:40", talk: bergh },
+      { time: "15:45&ndash;16:10", other: "refreshments" },
+      { time: "16:10&ndash;16:55", talk: tabuada },
+      { time: "17:00&ndash;18:00", other: "reception" },
+    ]
+
+- date: Tuesday, September 15th
+  slots:
+    [
+      { time:  "9:15&ndash;10:00", talk: polishchuk },
+      { time: "10:10&ndash;10:55", talk: dyckerhoff },
+      { time: "11:00&ndash;11:25", other: "coffee break" },
+      { time: "11:25&ndash;12:10", talk: krause },
+      { time: "12:10&ndash;14:00", other: "lunch" },
+      { time: "14:00&ndash;14:45", talk: kapranov },
+      { time: "14:55&ndash;15:40", talk: spenko },
+      { time: "15:45&ndash;16:10", other: "refreshments" },
+      { time: "16:10&ndash;16:55", talk: segal },
+    ]
+
+- date: Wednesday, September 16th
+  slots:
+    [
+      { time:  "9:15&ndash;10:00", talk: toen },
+      { time: "10:10&ndash;10:55", talk: yekutieli },
+      { time: "11:00&ndash;11:25", other: "coffee break" },
+      { time: "11:25&ndash;12:10", talk: positselski },
+      { time: "12:10&ndash;14:00", other: "lunch" },
+      { time: "18:00&ndash;...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",   other: "conference dinner" },
+    ]
+
+- date: Thursday, September 17th
+  slots:
+    [
+      { time:  "9:15&ndash;10:00", talk: kuznetsov },
+      { time: "10:10&ndash;10:55", talk: stellari },
+      { time: "11:00&ndash;11:25", other: "coffee break" },
+      { time: "11:25&ndash;12:10", talk: calaque },
+      { time: "12:10&ndash;14:00", other: "lunch" },
+      { time: "14:00&ndash;14:45", talk: stafford },
+      { time: "14:55&ndash;15:40", talk: sierra },
+      { time: "15:45&ndash;16:10", other: "refreshments" },
+      { time: "16:10&ndash;16:55", talk: okawa },
+    ]
+
+- date: Friday, September 18th
+  slots:
+    [
+      { time:  "9:15&ndash;10:00", talk: kaledin },
+      { time: "10:10&ndash;10:55", talk: fregier },
+      { time: "11:00&ndash;11:25", other: "coffee break" },
+      { time: "11:25&ndash;12:10", talk: block },
+      { time: "12:10&ndash;14:00", other: "lunch" },
+      { time: "14:00&ndash;14:45", talk: neeman },
+      { time: "14:55&ndash;15:40", talk: stevenson },
+    ]

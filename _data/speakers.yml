@@ -1,0 +1,35 @@
+bridgeland:
+  name: Tom Bridgeland
+  affiliation: University of Sheffield
+  website: http://www.tom-bridgeland.staff.shef.ac.uk/
+
+kaledin:
+  name: Dmitry Kaledin
+  affiliation: Steklov Mathematical Institute
+  website: http://www.mi.ras.ru/~kaledin/
+
+kapranov:
+  name: Mikhail Kapranov
+  affiliation: Yale University
+  website: http://users.math.yale.edu/~mk486/
+  tbc: True
+
+keller:
+  name: Bernhard Keller
+  affiliation: Paris Diderot University
+  website: https://webusers.imj-prg.fr/~bernhard.keller/
+
+kuznetsov:
+  name: Alexander Kuznetsov
+  affiliation: Steklov Mathematical Institute
+  website: http://www.mi.ras.ru/~akuznet/
+
+manin:
+  name: Yuri Manin
+  affiliation: Max Planck Institute for Mathematics
+  website: https://www.mpim-bonn.mpg.de/node/99
+
+neeman:
+  name: Amnon Neeman
+  affiliation: Australian National University
+  website: http://maths-people.anu.edu.au/~neeman/
