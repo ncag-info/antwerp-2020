@@ -1,7 +1,18 @@
+bezrukavnikov:
+  name: Roman Bezrukavnikov
+  affiliation: MIT
+  website: http://math.mit.edu/~bezrukav/
+  tbc: true
+
 bridgeland:
   name: Tom Bridgeland
   affiliation: University of Sheffield
   website: http://www.tom-bridgeland.staff.shef.ac.uk/
+
+gualtieri:
+  name: Marco Gualtieri
+  affiliation: University of Toronto
+  website: https://www.math.toronto.edu/mgualt/
 
 kaledin:
   name: Dmitry Kaledin
@@ -12,7 +23,7 @@ kapranov:
   name: Mikhail Kapranov
   affiliation: Yale University
   website: http://users.math.yale.edu/~mk486/
-  tbc: True
+  tbc: true
 
 keller:
   name: Bernhard Keller
@@ -33,3 +44,49 @@ neeman:
   name: Amnon Neeman
   affiliation: Australian National University
   website: http://maths-people.anu.edu.au/~neeman/
+
+pantev:
+  name: Tony Pantev
+  affiliation: University of Pennsylvania
+  website: https://www.math.upenn.edu/~tpantev/
+
+perry:
+  name: Alex Perry
+  affiliation: Institute for Advanced Study
+  website: https://www.math.ias.edu/~aperry/
+  tbc: true
+
+polishchuk:
+  name: Alexander Polishchuk
+  affiliation: University of Oregon
+  website: https://pages.uoregon.edu/apolish/
+
+rizzardo:
+  name: Alice Rizzardo
+  affiliation: University of Liverpool
+  website: https://pcwww.liv.ac.uk/~arizzard/
+
+sierra:
+  name: Sue Sierra
+  affiliation: University of Edinburgh
+  website: https://www.maths.ed.ac.uk/~ssierra/
+
+stafford:
+  name: Toby Stafford
+  affiliation: University of Manchester
+  website: https://personalpages.manchester.ac.uk/staff/toby.stafford/
+
+tabuada:
+  name: Gonçalo Tabuada
+  affiliation: University of Warwick
+  website: https://math.mit.edu/~tabuada/
+
+vezzosi:
+  name: Gabriele Vezzosi
+  affiliation: University of Firenze
+  website: http://www.dma.unifi.it/~vezzosi/
+
+wemyss:
+  name: Michael Wemyss
+  affiliation: University of Glasgow
+  website: https://www.maths.gla.ac.uk/~mwemyss/

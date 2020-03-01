@@ -1,6 +1,27 @@
+html {
+}
+
 body {
   font-family: "Open Sans", serif;
   font-size: .9em;
+  margin: 0;
+}
+
+div#mountain {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+  opacity: 0.1;
+  background-color: #f3f8ef;
+  background-image: url("/mountain-4x.jpg");
+  background-repeat: no-repeat;
+  background-size: 70%;
+  background-position: bottom left;
+  background-attachment: fixed;
+}
+
+div#content {
   max-width: 800px;
   margin: 0 auto;
   padding: 10px;
@@ -16,21 +37,17 @@ hr {
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 61, 100, 0.6), rgba(0, 0, 0, 0));
 }
 
-header {
-  background-color: rgba(0,61,100,.6);
-  padding: .5em;
-  margin: -5px;
+header h1,
+header p {
+  display: none;
+}
+
+header img {
+  width: 100%;
 }
 
 header h1 {
-  margin: 0;
-  font-size: 1.6em;
-  text-align: center;
-}
-
-header p {
-  font-style: italic;
-  margin-bottom: 0;
+  text-indent: -9999px;
 }
 
 nav {
