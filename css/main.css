@@ -77,13 +77,13 @@ nav ul {
 
 nav li {
   display: inline-block;
-  background-color: rgba(126,0,47,.6);
+  background-color: rgba(131,61,19,.3);
   margin-right: 5px;
   margin-bottom: 4px;
 }
 
 nav li:hover {
-  background-color: rgba(126,0,47,.4);
+  background-color: rgba(131,61,19,.6);
 }
 
 
