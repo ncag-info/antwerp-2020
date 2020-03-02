@@ -12,7 +12,7 @@ div#mountain {
   height: 100%;
   width: 100%;
   z-index: -1;
-  opacity: 0.1;
+  opacity: 1;
   background-color: #f3f8ef;
   background-image: url("../mountain-4x.jpg");
   background-repeat: no-repeat;
@@ -135,7 +135,7 @@ ul.names li {
 
 ul.names li:before {
   content: "• ";
-  color: rgba(0,61,100,.5);
+  color: rgba(0,255,0,1);
 }
 
 ul.names span.name {
