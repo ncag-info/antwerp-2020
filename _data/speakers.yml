@@ -19,7 +19,6 @@ kapranov:
   name: Mikhail Kapranov
   affiliation: Yale University
   website: https://db.ipmu.jp/member/personal/2760en.html
-  tbc: true
 
 keller:
   name: Bernhard Keller
@@ -30,11 +29,6 @@ kuznetsov:
   name: Alexander Kuznetsov
   affiliation: Steklov Mathematical Institute
   website: http://www.mi.ras.ru/~akuznet/
-
-manin:
-  name: Yuri Manin
-  affiliation: Max Planck Institute for Mathematics
-  website: https://www.mpim-bonn.mpg.de/node/99
 
 neeman:
   name: Amnon Neeman
@@ -59,7 +53,6 @@ rizzardo:
   name: Alice Rizzardo
   affiliation: University of Liverpool
   website: https://pcwww.liv.ac.uk/~arizzard/
-  tbc: true
 
 sierra:
   name: Sue Sierra
