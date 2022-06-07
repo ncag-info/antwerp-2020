@@ -1,8 +1,18 @@
+auroux:
+  name: Denis Auroux
+  affiliation: Harvard University
+  website: https://people.math.harvard.edu/~auroux/
+
 bezrukavnikov:
   name: Roman Bezrukavnikov
   affiliation: MIT
   website: http://math.mit.edu/~bezrukav/
   tbc: true
+
+calaque:
+  name: Damien Calaque
+  affiliation: University of Montpellier
+  website: https://imag.umontpellier.fr/~calaque/
 
 gualtieri:
   name: Marco Gualtieri
