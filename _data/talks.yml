@@ -4,6 +4,10 @@ auroux:
   abstract: >
     <p>The general theme of this talk will be functoriality in homological mirror symmetry, i.e. situations where naturally occurring functors between various types of Fukaya categories correspond under mirror symmetry to classical functors (induced by inclusions and projections) between derived categories of coherent sheaves (or matrix factorizations). The running examples will be very affine hypersurfaces on one side of mirror symmetry, and toric Calabi-Yau varieties on the other side. This talk is based on joint work with Abouzaid and Katzarkov, as well as work of Gammage and Jeffs.</p>
 
+calaque:
+  title: Comparing Calabi-Yau and quasi-bisymplectic structures for multiplicative preprojective algebras
+  speaker: calaque
+
 stafford:
   title: Invariant holonomic systems for symmetric spaces
   speaker: stafford
