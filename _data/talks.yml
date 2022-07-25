@@ -15,3 +15,9 @@ stafford:
     <p>Fix a complex reductive Lie group $G$ with Lie algebra $\mathfrak{g}$ and let $V$ be a symmetric space over $\mathfrak{g}$ with ring of differential operators $\mathcal{D}(V)$. A fundamental class of $\mathcal{D}(V)$-modules consists of the <em>admissible modules</em> (these are natural analogues of highest weight $\mathfrak{g}$-modules). In this lecture I will describe the structure of some important admissible modules. In particular, when $V=\mathfrak{g}$ these results reduce to give Harish-Chandra's regularity theorem for $G$-equivariant eigendistributions and imply results of Hotta and Kashiwara on invariant holonomic systems. If I have time I will describe extensions of thes results to the more general polar $\mathfrak{g}$-representations.
     <p>A key technique is relating (the admissible module over) invariant differential operators $\mathcal{D}(V)^G$ on $V$ to (highest weight modules over) Cherednik algebras.
     <p>This research is joint with Bellamy, Levasseur and Nevins.
+
+wemyss:
+  title: Spherical objects in dimension 2 and 3
+  speaker: wemyss
+  abstract: >
+    <p>I will explain how to classify spherical objects in various settings (Kleinian singularities, 3-fold flops) using simple modules for the corresponding noncommutative resolution. The main result is much more general, and also more surprising: in the null category $\mathcal{C}$, (1) all objects with no negative Ext groups belong to the heart of a bounded t-structure, and (2) the objects with no negative Ext groups, and whose self-Hom is one-dimensional, are precisely the simples.  In fact, we can even classify all bounded t-structures on $\mathcal{C}$. There are various geometric corollaries. The main technique also works for finite dimensional algebras, where in the derived category of a silting discrete algebra, every semibrick complex can be completed to a simple minded collection.  This is all joint work with Wahei Hara.
