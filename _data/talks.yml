@@ -8,6 +8,12 @@ calaque:
   title: Comparing Calabi-Yau and quasi-bisymplectic structures for multiplicative preprojective algebras
   speaker: calaque
 
+neeman:
+  title: Bounded t-structures on the category of perfect complexes
+  speaker: neeman
+  abstract: >
+    <p>Van den Bergh's work has greatly influenced mine. The talk will begin with a couple of papers by Van den Bergh that I am much indebted to, and then explain how the proof of a new result, about the non-existence of bounded t-structures on the category of perfect complexes on a scheme $X$, owes the key ideas to these papers by Van den Bergh.
+
 stafford:
   title: Invariant holonomic systems for symmetric spaces
   speaker: stafford
