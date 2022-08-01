@@ -22,6 +22,19 @@ stafford:
     <p>A key technique is relating (the admissible module over) invariant differential operators $\mathcal{D}(V)^G$ on $V$ to (highest weight modules over) Cherednik algebras.
     <p>This research is joint with Bellamy, Levasseur and Nevins.
 
+vezzosi:
+  title: An analog of the Beilinson-Drinfeld Grassmannian for surfaces
+  speaker: vezzosi
+  abstract: >
+    <p>Fix an affine algebraic group $G$ over the complex numbers, and a proper smooth complex surface $X$.
+    We can attach to a family of flags of closed subschemes in $X$ (parametrized by a scheme $S$) a generalization of
+    the Beilinson-Drinfeld Grassmannian of $G$-bundles.
+    The union of flags induces a simplicial structure that turns out to be 2-Segal,
+    thus giving rise to a fusion monoidal structure on sheaves on this Grassmannian
+    that also carries a flat connection and actions of suitable generalizations of the loop and positive loop groups.
+    Time permitting, I will discuss the factorization property and some future directions.
+    This is joint work with Benjamin Hennion and Valerio Melani.
+
 wemyss:
   title: Spherical objects in dimension 2 and 3
   speaker: wemyss
