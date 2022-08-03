@@ -18,6 +18,7 @@ gasparim:
   name: Elizabeth Gasparim
   affiliation: Universidad Católica del Norte
   website: https://sites.google.com/view/elizabethgasparim
+  online: true
 
 gualtieri:
   name: Marco Gualtieri
@@ -74,6 +75,7 @@ polishchuk:
   name: Alexander Polishchuk
   affiliation: University of Oregon
   website: https://pages.uoregon.edu/apolish/
+  online: true
 
 rizzardo:
   name: Alice Rizzardo
@@ -95,6 +97,11 @@ stroppel:
   affiliation: University of Bonn
   website: http://www.math.uni-bonn.de/ag/stroppel/
 
+taelman:
+  name: Lenny Taelman
+  affiliation: Universiteit van Amsterdam
+  website: https://staff.fnwi.uva.nl/l.d.j.taelman/
+
 tabuada:
   name: Gonçalo Tabuada
   affiliation: University of Warwick
@@ -104,7 +111,7 @@ vezzosi:
   name: Gabriele Vezzosi
   affiliation: University of Firenze
   website: http://www.dma.unifi.it/~vezzosi/
-  tbc: true
+  online: true
 
 wemyss:
   name: Michael Wemyss
