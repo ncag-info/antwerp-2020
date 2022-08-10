@@ -7,7 +7,6 @@ bezrukavnikov:
   name: Roman Bezrukavnikov
   affiliation: MIT
   website: http://math.mit.edu/~bezrukav/
-  tbc: true
 
 calaque:
   name: Damien Calaque
@@ -25,6 +24,12 @@ gualtieri:
   affiliation: University of Toronto
   website: https://www.math.toronto.edu/mgualt/
   tbc: true
+
+halpernleistner:
+  name: Daniel Halpern-Leistner
+  affiliation: Cornell University
+  website: http://pi.math.cornell.edu/~danielhl/
+  online: true
 
 kaledin:
   name: Dmitry Kaledin

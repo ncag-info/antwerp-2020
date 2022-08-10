@@ -11,6 +11,12 @@ calaque:
     <p>Multiplicative preprojective algebras first appeared in the work of Crawley-Boevey and Shaw, in the course of their study of the Deligne-Simpson problem. Their representation varities, known as multiplicative quiver varieties, naturally appear in various areas (character varieties, local systems on Riemann surfaces and perverse sheaves on nodal curves, integrable systems, etc...). Michel proved that these varieties can be obtained using a quasi-Hamiltonian reduction procedure (after Alekseev-Malkin-Meinreinken), and developed a noncommutative version of the quasi-Hamiltonian formalism so that all constructions actually hold directly at the level of the multiplicative preprojective algebras. In this talk I will explain explain that the moment map defining these multiplicative preprojective algebras carry a relative Calabi-Yau structure (a notion introduced by Brav and Dyckerhoff, following some earlier suggestion of Toën), and how the three notions (quasi-Hamiltonian structures, their non-commutative version, and relative Calabi-Yau structures) interact.
     <p>The talk is based on joint works with Tristan Bozec and Sarah Scherotzke.
 
+halpernleistner:
+  title: The noncommutative minimal model program
+  speaker: halpernleistner
+  abstract: >
+    <p>There are many situations in which the derived category of coherent sheaves on a smooth projective variety admits a semiorthogonal decomposition that reflects something interesting about its geometry. I will present a new unifying framework for studying these semiorthogonal decompositions using Bridgeland stability conditions. Then, I will formulate some conjectures about canonical flows on the space of stability conditions that imply several important conjectures on the structure of derived categories, such as the D-equivalence conjecture and Dubrovin's conjecture.
+
 kaledin:
   title: Non-commutative cristalline cohomology
   speaker: kaledin
