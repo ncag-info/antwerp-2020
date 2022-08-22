@@ -29,6 +29,14 @@ neeman:
   abstract: >
     <p>Van den Bergh's work has greatly influenced mine. The talk will begin with a couple of papers by Van den Bergh that I am much indebted to, and then explain how the proof of a new result, about the non-existence of bounded t-structures on the category of perfect complexes on a scheme $X$, owes the key ideas to these papers by Van den Bergh.
 
+padurariu:
+  title:  Categorical Donaldson-Thomas theory of $\mathbb{C}^3$
+  speaker: padurariu
+  abstract: >
+    <p>I will explain some results in categorical Donaldson-Thomas theory of $\mathbb{C}^3$. An important construction is that of quasi-BPS categories, which are a categorical approximation of BPS (also called Gopakumar-Vafa) invariants in enumerative geometry. Quasi-BPS categories are categories of matrix factorizations on certain (twisted) noncommutative resolutions of singularities constructed by Špenko-Van den Bergh. We expect quasi-BPS categories to be indecomposable.
+    <p>We construct semiorthogonal decompositions of the derived category of coherent sheaves on the stack of commuting matrices (alternatively, the Hall algebra of $\mathbb{C}^2$) and of a categorification of Donaldson-Thomas invariants of $\mathbb{C}^3$ using quasi-BPS categories. We compute (versions of) the K-theory of quasi-BPS categories. Along the way, we propose a K-theoretic version for $\mathbb{C}^3$ of the Bridgeland-King-Reid and Haiman theorem that the Hilbert scheme of d points on $\mathbb{C}^2$ is derived equivalent to the orbifold $\mathbb{C}^{2d}/\mathfrak{S}_d$.
+    <p>This is joint work with Yukinobu Toda.
+
 stafford:
   title: Invariant holonomic systems for symmetric spaces
   speaker: stafford
@@ -43,6 +51,12 @@ taelman:
   abstract: >
     <p>We study deformations of smooth projective varieties with trivial canonical bundle in positive and mixed characteristic. We show that (under suitable hypotheses) these are unobstructed. This is an analogue to the Bogomolov-Tian-Todorov theorem (in characteristic zero). We also show that “ordinary” varieties with trivial canonical bundle admit a preferred "canonical lift" to characteristic zero. This generalizes results of Serre-Tate (for abelian varieties) and Deligne (for K3 surfaces). Our proofs rely in an essential way on “derived” deformation theory as developed by Pridham and Lurie.
     <p>This is joint work with Lukas Brantner.
+
+tsygan:
+  title: Noncommutative crystalline cohomology
+  speaker: tsygan
+  abstract: >
+    "<p>In characteristic zero, a good noncommutative generalization of De Rham cohomology of an algebraic variety is periodic cyclic homology of as associative algebra. In positive or mixed  characteristic, to get a truly general noncommutative generalization of various types of cohomology of schemes, one has to use topological versions of Hochschild and cyclic theory. However, quite a bit could be stated using variations on the usual definitions. I will review four recent constructions: one, by Kaledin, based on noncommutative Witt vectors; another, by Petrov and Vologodsky, based on derived periodic cyclic homology and the Gauss-Manin connection; one by myself, based on operations on cyclic complexes; and one by Cortinas-Cuntz-Meyer-Tamme, based on non-Archimedean topological/bornological methods."
 
 vezzosi:
   title: An analog of the Beilinson-Drinfeld Grassmannian for surfaces

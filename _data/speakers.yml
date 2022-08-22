@@ -17,7 +17,6 @@ gasparim:
   name: Elizabeth Gasparim
   affiliation: Universidad Católica del Norte
   website: https://sites.google.com/view/elizabethgasparim
-  online: true
 
 gualtieri:
   name: Marco Gualtieri
@@ -66,11 +65,6 @@ padurariu:
   affiliation: Columbia University
   website: https://www.math.columbia.edu/~tpad/
 
-pantev:
-  name: Tony Pantev
-  affiliation: University of Pennsylvania
-  website: https://www.math.upenn.edu/~tpantev/
-
 perry:
   name: Alexander Perry
   affiliation: University of Michigan
@@ -86,6 +80,11 @@ rizzardo:
   name: Alice Rizzardo
   affiliation: University of Liverpool
   website: https://pcwww.liv.ac.uk/~arizzard/
+
+tsygan:
+  name: Boris Tsygan
+  affiliation: Northwestern University
+  website: https://sites.math.northwestern.edu/~tsygan/
 
 sierra:
   name: Sue Sierra
