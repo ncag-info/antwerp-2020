@@ -18,7 +18,7 @@ gasparim:
     <p>I will discuss mirror symmetry for adjoint orbits and make some comparisons with mirrors of their families of deformations.
     In particular, I will describe the Fukaya category of a symplectic Landau-Ginzburg model that does not have any projective mirrors
     in the sense of an equivalent category of coherent sheaves, and then change the mirror recipe so as to obtain an algebraic mirror
-    using Orlov's category of singularities. 
+    using Orlov's category of singularities.
 
 halpernleistner:
   title: The noncommutative minimal model program
@@ -31,6 +31,12 @@ kaledin:
   speaker: kaledin
   abstract: >
     <p>I am going to give an overview of several recent constructions of non-commutative versions of cristalling cohomology for DG algebras over a finite field (namely, a construction of Vologodsky and Petrov, and another construction of Tsygan-Nest). If time permits, I will also add some speculations as to what might be a possible counterpart of these constructions in characteristic zero.
+
+keller:
+  title: On Amiot's conjecture
+  speaker: keller
+  abstract: >
+    <p>In 2010, Claire Amiot conjectured that algebraic 2-Calabi-Yau categories with cluster-tilting object must come from quivers with potential. This would extend a structure theorem obtained with Idun Reiten in the case where the endomorphism algebra of the cluster-tilting object is hereditary. Many other classes of examples are also known. We will report on recent progress in the general case obtained in joint work with Junyang Liu and based on Van den Bergh's structure theorem for complete Calabi-Yau algebras.
 
 neeman:
   title: Bounded t-structures on the category of perfect complexes
@@ -65,7 +71,7 @@ tsygan:
   title: Noncommutative crystalline cohomology
   speaker: tsygan
   abstract: >
-    "<p>In characteristic zero, a good noncommutative generalization of De Rham cohomology of an algebraic variety is periodic cyclic homology of as associative algebra. In positive or mixed  characteristic, to get a truly general noncommutative generalization of various types of cohomology of schemes, one has to use topological versions of Hochschild and cyclic theory. However, quite a bit could be stated using variations on the usual definitions. I will review four recent constructions: one, by Kaledin, based on noncommutative Witt vectors; another, by Petrov and Vologodsky, based on derived periodic cyclic homology and the Gauss-Manin connection; one by myself, based on operations on cyclic complexes; and one by Cortinas-Cuntz-Meyer-Tamme, based on non-Archimedean topological/bornological methods."
+    <p>In characteristic zero, a good noncommutative generalization of De Rham cohomology of an algebraic variety is periodic cyclic homology of as associative algebra. In positive or mixed  characteristic, to get a truly general noncommutative generalization of various types of cohomology of schemes, one has to use topological versions of Hochschild and cyclic theory. However, quite a bit could be stated using variations on the usual definitions. I will review four recent constructions: one, by Kaledin, based on noncommutative Witt vectors; another, by Petrov and Vologodsky, based on derived periodic cyclic homology and the Gauss-Manin connection; one by myself, based on operations on cyclic complexes; and one by Cortinas-Cuntz-Meyer-Tamme, based on non-Archimedean topological/bornological methods.
 
 vezzosi:
   title: An analog of the Beilinson-Drinfeld Grassmannian for surfaces
