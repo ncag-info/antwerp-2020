@@ -20,16 +20,24 @@ The schedule for the main conference will be determined later.
       {% assign talk = site.data.talks[slot.talk] %}
       {% assign speaker = site.data.speakers[slot.talk] %}
 
-      {% if site.data.talks[slot.talk] %}
-        <dd class="title">
-          <a href="{{ site.baseurl }}/abstracts#{{ slot.talk }}">{{ talk.title }}</a>
-        </dd>
+      {% if slot.talk == "vanoystaeyen" %}
+        <dd class="title">Noncommutative algebraic geometry in Antwerp
+        <dd class="speaker"><span class="name">Fred Van Oystaeyen</span> (<span class="affiliation">University of Antwerp</span>)
       {% else %}
-        <dd>to be determined</dd>
-      {% endif %}
+        {% if site.data.talks[slot.talk] %}
+          <dd class="title">
+            <a href="{{ site.baseurl }}/abstracts#{{ slot.talk }}">{{ talk.title }}</a>
+            {% if speaker.online %}<span style="font-weight: normal">(remote)</span>{% endif %}
+          </dd>
+        {% else %}
+          <dd>to be determined
+            {% if speaker.online %}(remote){% endif %}
+          </dd>
+        {% endif %}
 
-      <dd class="speaker"><span class="name">{{ speaker.name }}</span> (<span class="affiliation">{{ speaker.affiliation }}</span>)
-      </dd>
+        <dd class="speaker"><span class="name">{{ speaker.name }}</span> (<span class="affiliation">{{ speaker.affiliation }}</span>)
+        </dd>
+      {% endif %}
     {% elsif slot.other %}
       <dd>{{ slot.other }}
     {% else %}
