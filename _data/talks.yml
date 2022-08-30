@@ -38,6 +38,12 @@ keller:
   abstract: >
     <p>In 2010, Claire Amiot conjectured that algebraic 2-Calabi-Yau categories with cluster-tilting object must come from quivers with potential. This would extend a structure theorem obtained with Idun Reiten in the case where the endomorphism algebra of the cluster-tilting object is hereditary. Many other classes of examples are also known. We will report on recent progress in the general case obtained in joint work with Junyang Liu and based on Van den Bergh's structure theorem for complete Calabi-Yau algebras.
 
+kuznetsov:
+  title: Categorical absorption of singularities
+  speaker: kuznetsov
+  abstract: >
+    <p>Resolution of singularities from the categorical point of view is an  operation that replaces the derived category of a singular variety by a bigger smooth and proper triangulated category. Absorption of singularities, on a contrary, replaces the derived category of a singular variety by a smaller smooth and proper triangulated category. In the talk I will introduce $\mathbb{P}^\infty$-objects and show how they can be used to absorb singularities of nodal varieties.
+
 neeman:
   title: Bounded t-structures on the category of perfect complexes
   speaker: neeman
@@ -55,7 +61,8 @@ padurariu:
 perry:
   title: Noncommutative Enriques surfaces
   speaker: perry
-  abstract: Noncommutative K3 surfaces have been intensely studied in recent years, especially in connection to cubic fourfolds and hyperkahler geometry. I will discuss a closely related story for noncommutative Enriques surfaces associated to certain Fano threefolds. In particular, I will explain the resolution of a conjecture of Kuznetsov relating these noncommutative surfaces for different types of Fano threefolds, as well as structural results about their moduli spaces of stable objects. This is based on joint works with Arend Bayer and with Laura Pertusi and Xiaolei Zhao.
+  abstract: >
+    <p>Noncommutative K3 surfaces have been intensely studied in recent years, especially in connection to cubic fourfolds and hyperkahler geometry. I will discuss a closely related story for noncommutative Enriques surfaces associated to certain Fano threefolds. In particular, I will explain the resolution of a conjecture of Kuznetsov relating these noncommutative surfaces for different types of Fano threefolds, as well as structural results about their moduli spaces of stable objects. This is based on joint works with Arend Bayer and with Laura Pertusi and Xiaolei Zhao.
 
 sierra:
   title: Ideals in enveloping algebras of affine Lie algebras
@@ -77,7 +84,8 @@ stafford:
 tabuada:
   title: Grothendieck classes of quadric hypersurfaces and involution varieties
   speaker: tabuada
-  abstract: The Grothendieck ring of varieties, introduced in a letter from Alexander Grothendieck to Jean-Pierre Serre (August 16th 1964), plays an important role in algebraic geometry. However, despite the efforts of several mathematicians, the structure of this ring still remains poorly understood. In this talk, in order to better understand the Grothendieck ring of varieties, I will describe some new structural properties of the Grothendieck classes of quadric hypersurfaces and involution varieties. More specifically, by combining the recent theory of noncommutative motives with the classical theory of motives, I will show that if two quadric hypersurfaces (or, more generally, two involution varieties) have the same Grothendieck class, then they have the same even Clifford algebra and the same signature. As an application, this implies in numerous cases (e.g., when the base field is a local or global field) that two quadric hypersurfaces (or, more generally, two involution varieties) have the same Grothendieck class if and only if they are isomorphic.
+  abstract: >
+    <p>The Grothendieck ring of varieties, introduced in a letter from Alexander Grothendieck to Jean-Pierre Serre (August 16th 1964), plays an important role in algebraic geometry. However, despite the efforts of several mathematicians, the structure of this ring still remains poorly understood. In this talk, in order to better understand the Grothendieck ring of varieties, I will describe some new structural properties of the Grothendieck classes of quadric hypersurfaces and involution varieties. More specifically, by combining the recent theory of noncommutative motives with the classical theory of motives, I will show that if two quadric hypersurfaces (or, more generally, two involution varieties) have the same Grothendieck class, then they have the same even Clifford algebra and the same signature. As an application, this implies in numerous cases (e.g., when the base field is a local or global field) that two quadric hypersurfaces (or, more generally, two involution varieties) have the same Grothendieck class if and only if they are isomorphic.
 
 taelman:
   title: Deformations of Calabi–Yau varieties in mixed characteristic
