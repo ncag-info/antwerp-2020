@@ -95,6 +95,7 @@ stroppel:
   name: Catharina Stroppel
   affiliation: University of Bonn
   website: http://www.math.uni-bonn.de/ag/stroppel/
+  online: true
 
 taelman:
   name: Lenny Taelman
@@ -105,6 +106,7 @@ tabuada:
   name: Gonçalo Tabuada
   affiliation: University of Warwick
   website: https://homepages.warwick.ac.uk/staff/Goncalo.Tabuada/
+  online: true
 
 vezzosi:
   name: Gabriele Vezzosi
