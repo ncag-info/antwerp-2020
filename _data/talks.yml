@@ -64,6 +64,15 @@ perry:
   abstract: >
     <p>Noncommutative K3 surfaces have been intensely studied in recent years, especially in connection to cubic fourfolds and hyperkahler geometry. I will discuss a closely related story for noncommutative Enriques surfaces associated to certain Fano threefolds. In particular, I will explain the resolution of a conjecture of Kuznetsov relating these noncommutative surfaces for different types of Fano threefolds, as well as structural results about their moduli spaces of stable objects. This is based on joint works with Arend Bayer and with Laura Pertusi and Xiaolei Zhao.
 
+polishchuk:
+  title: Bihamiltonian Feigin-Odesskii structures
+  speaker: polishchuk
+  abstract: >
+    <p>This talk is based on joint works with Zheng Hua and Nikita Markarian.
+    We consider Poisson brackets on projective spaces arising from vector bundles on elliptic curves.
+    We construct examples of compatible Poisson brackets of this type from exceptional bundles on surfaces.
+    In the case of Poisson brackets associated with line bundles we give a geometric criterion of compatibility between the brackets.
+
 sierra:
   title: Ideals in enveloping algebras of affine Lie algebras
   speaker: sierra

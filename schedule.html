@@ -5,7 +5,6 @@ permalink: /schedule
 
 The schedule for the main conference will be determined later.
 
-{% comment %}
 
 <!--
 <p>A <a href="schedule.pdf">printable version</a> of the schedule.
@@ -20,9 +19,9 @@ The schedule for the main conference will be determined later.
       {% assign talk = site.data.talks[slot.talk] %}
       {% assign speaker = site.data.speakers[slot.talk] %}
 
-      {% if slot.talk == "vanoystaeyen" %}
+      {% if slot.talk == "history" %}
         <dd class="title">Noncommutative algebraic geometry in Antwerp
-        <dd class="speaker"><span class="name">Fred Van Oystaeyen</span> (<span class="affiliation">University of Antwerp</span>)
+        <dd class="speaker"><span class="name"></span> ()
       {% else %}
         {% if site.data.talks[slot.talk] %}
           <dd class="title">
@@ -49,4 +48,3 @@ The schedule for the main conference will be determined later.
 
 {% endfor %}
 
-{% endcomment %}
