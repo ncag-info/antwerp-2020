@@ -102,6 +102,12 @@ stafford:
     <p>A key technique is relating (the admissible module over) invariant differential operators $\mathcal{D}(V)^G$ on $V$ to (highest weight modules over) Cherednik algebras.
     <p>This research is joint with Bellamy, Levasseur and Nevins.
 
+stroppel:
+  title: Convolution algebras via Chow groups
+  speaker: stroppel
+  abstract: >
+    <p>In this talk we connect algebras arising in geometric representation theory and categorification with Chow motives. The main tool is hereby tilting objects and weight complex functors.
+
 tabuada:
   title: Grothendieck classes of quadric hypersurfaces and involution varieties
   speaker: tabuada
