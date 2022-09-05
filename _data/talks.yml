@@ -32,6 +32,18 @@ kaledin:
   abstract: >
     <p>I am going to give an overview of several recent constructions of non-commutative versions of cristalling cohomology for DG algebras over a finite field (namely, a construction of Vologodsky and Petrov, and another construction of Tsygan-Nest). If time permits, I will also add some speculations as to what might be a possible counterpart of these constructions in characteristic zero.
 
+kapranov:
+  title: Perverse sheaves and schobers on symmetric products.
+  speaker: kapranov
+  abstract: >
+    <p>The talk, based on joint work in progress with V. Schechtman, will first recall our description of perverse sheaves on $\mathrm{Sym}^n(C)$, the symmetric product of the complex line with its natural stratification by multiplicities. This description proceeds in terms of contingency matrices, which are certain integer matrices appearing (besides their origin in statistics) in three different contexts:
+    <ul>
+    <li>A natural cell decomposition of $\mathrm{Sym}^n(C)$.
+    <li>Compatibility of multiplication and comlultiplication in $\mathbb{Z}_+$-graded Hopf algebras.
+    <li>Parabolic Bruhat decomposition for $\mathrm{GL}_n$.
+    </ul>
+    <p>Perverse sheaves on $\mathrm{Sym}^n(C)$ are described in terms of certain data of mixed functoriality on contingency matrices which we call Janus sheaves. I will then explain our approach to categorifying the concept of Janus sheaves, in which sums are replaced by filtrations with respect to the Bruhat order. Such data can be called Janus schobers. Examples can be obtained from $\mathbb{Z}_+$-graded Hopf categories, a concept going back to Crane-Frenkel, of which we consider two examples related to representations of groups $\mathrm{GL}_n$ over finite fields (Joyal-Street) and p-adic fields (Bernstein-Zelevinsky).
+
 keller:
   title: On Amiot's conjecture
   speaker: keller
