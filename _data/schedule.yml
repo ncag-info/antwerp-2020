@@ -1,7 +1,7 @@
 - date: Monday, September 12
   slots:
     [
-      { time: "8:30&ndash;10:00", other: "registration" },
+      { time: "08:30&ndash;10:00", other: "registration" },
       { time: "10:00&ndash;10:50", talk: neeman },
       { time: "11:00&ndash;11:30", other: "break" },
       { time: "11:30&ndash;12:20", talk: tabuada },
@@ -9,14 +9,13 @@
       { time: "14:00&ndash;14:50", talk: kapranov },
       { time: "15:00&ndash;15:30", other: "break" },
       { time: "15:30&ndash;16:20", talk: halpernleistner },
-      { time: "16:30&ndash;17:00", talk: "history" },
-      { time: "17:00&ndash;19:00", other: "reception" },
+      { time: "16:30&ndash;19:00", other: "reception" },
     ]
 
 - date: Tuesday, September 13
   slots:
     [
-      { time:  "9:00&ndash;09:50", talk: tsygan },
+      { time: "09:00&ndash;09:50", talk: tsygan },
       { time: "10:00&ndash;10:30", other: "break" },
       { time: "10:30&ndash;11:20", talk: stroppel },
       { time: "11:30&ndash;12:20", talk: kuznetsov },
@@ -30,9 +29,9 @@
 - date: Wednesday, September 14
   slots:
     [
-      { time:  "9:00&ndash;09:50", talk: sierra },
+      { time: "09:00&ndash;09:50", talk: keller },
       { time: "10:00&ndash;10:30", other: "break" },
-      { time: "10:30&ndash;11:20", talk: keller },
+      { time: "10:30&ndash;11:20", talk: sierra },
       { time: "11:30&ndash;12:20", talk: stafford },
       { time: "19:00&ndash;...", other: "conference dinner" },
     ]
@@ -40,7 +39,7 @@
 - date: Thursday, September 15
   slots:
     [
-      { time:  "9:00&ndash;09:50", talk: wemyss },
+      { time: "09:00&ndash;09:50", talk: wemyss },
       { time: "10:00&ndash;10:30", other: "break" },
       { time: "10:30&ndash;11:20", talk: polishchuk },
       { time: "11:30&ndash;12:20", talk: padurariu },
@@ -54,7 +53,7 @@
 - date: Friday, September 16
   slots:
     [
-      { time:  "9:00&ndash;09:50", talk: bezrukavnikov },
+      { time: "09:00&ndash;09:50", talk: bezrukavnikov },
       { time: "10:00&ndash;10:30", other: "break" },
       { time: "10:30&ndash;11:20", talk: vezzosi },
       { time: "11:30&ndash;12:20", talk: gasparim },

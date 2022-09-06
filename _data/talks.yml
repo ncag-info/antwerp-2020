@@ -4,6 +4,10 @@ auroux:
   abstract: >
     <p>The general theme of this talk will be functoriality in homological mirror symmetry, i.e. situations where naturally occurring functors between various types of Fukaya categories correspond under mirror symmetry to classical functors (induced by inclusions and projections) between derived categories of coherent sheaves (or matrix factorizations). The running examples will be very affine hypersurfaces on one side of mirror symmetry, and toric Calabi-Yau varieties on the other side. This talk is based on joint work with Abouzaid and Katzarkov, as well as work of Gammage and Jeffs.</p>
 
+bezrukavnikov:
+  title: tba
+  speaker: bezrukavnikov
+
 calaque:
   title: Comparing Calabi-Yau and quasi-bisymplectic structures for multiplicative preprojective algebras
   speaker: calaque
@@ -19,6 +23,12 @@ gasparim:
     In particular, I will describe the Fukaya category of a symplectic Landau-Ginzburg model that does not have any projective mirrors
     in the sense of an equivalent category of coherent sheaves, and then change the mirror recipe so as to obtain an algebraic mirror
     using Orlov's category of singularities.
+
+gualtieri:
+  title: Generalized Kähler metrics and double symplectic groupoids
+  speaker: gualtieri
+  abstract: >
+    <p>Generalized Kähler manifolds, which arise as natural target spaces for supersymmetric 2-dimensional sigma models, provide a rich family of examples to which many of the tools of Poisson geometry may be applied.  After reviewing their basic structure, I will explain a new appearance of double groupoids and double Morita equivalences in the story. This is joint work with Yucong Jiang (Toronto) and Daniel Alvarez (Toronto).
 
 halpernleistner:
   title: The noncommutative minimal model program
@@ -84,6 +94,10 @@ polishchuk:
     We consider Poisson brackets on projective spaces arising from vector bundles on elliptic curves.
     We construct examples of compatible Poisson brackets of this type from exceptional bundles on surfaces.
     In the case of Poisson brackets associated with line bundles we give a geometric criterion of compatibility between the brackets.
+
+rizzardo:
+  title: tba
+  speaker: rizzardo
 
 sierra:
   title: Ideals in enveloping algebras of affine Lie algebras
