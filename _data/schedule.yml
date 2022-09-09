@@ -9,7 +9,7 @@
       { time: "14:00&ndash;14:50", talk: kapranov },
       { time: "15:00&ndash;15:30", other: "break" },
       { time: "15:30&ndash;16:20", talk: halpernleistner },
-      { time: "16:30&ndash;19:00", other: "reception" },
+      { time: "17:00&ndash;19:30", other: "reception" },
     ]
 
 - date: Tuesday, September 13

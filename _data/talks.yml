@@ -5,8 +5,10 @@ auroux:
     <p>The general theme of this talk will be functoriality in homological mirror symmetry, i.e. situations where naturally occurring functors between various types of Fukaya categories correspond under mirror symmetry to classical functors (induced by inclusions and projections) between derived categories of coherent sheaves (or matrix factorizations). The running examples will be very affine hypersurfaces on one side of mirror symmetry, and toric Calabi-Yau varieties on the other side. This talk is based on joint work with Abouzaid and Katzarkov, as well as work of Gammage and Jeffs.</p>
 
 bezrukavnikov:
-  title: tba
+  title: Coherent sheaves on the Hilbert scheme of points, revisited
   speaker: bezrukavnikov
+  abstract: >
+    <p>I will present results and conjectures relating commutative and noncommutative resolutions of symplectic singularities to stability conditions and to constructible and microlocal sheaves, with emphasis on the Hilbert scheme of points on the plane.
 
 calaque:
   title: Comparing Calabi-Yau and quasi-bisymplectic structures for multiplicative preprojective algebras
