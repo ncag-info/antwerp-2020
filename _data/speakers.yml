@@ -86,6 +86,7 @@ sierra:
   name: Sue Sierra
   affiliation: University of Edinburgh
   website: https://www.maths.ed.ac.uk/~ssierra/
+  online: true
 
 stafford:
   name: Toby Stafford
