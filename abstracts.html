@@ -25,6 +25,7 @@ layout: default
     {% endif %}
 
     {% if talk.notes %}<a href="/assets/{{ talk.notes }}">notes</a>{% endif %}
+    {% if talk.video %}<br><a href="{{ talk.video }}">video</a>{% endif %}
   </section>
   <hr>
 {% endfor %}

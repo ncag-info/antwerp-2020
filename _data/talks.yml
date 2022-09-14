@@ -32,12 +32,14 @@ gualtieri:
   abstract: >
     <p>Generalized Kähler manifolds, which arise as natural target spaces for supersymmetric 2-dimensional sigma models, provide a rich family of examples to which many of the tools of Poisson geometry may be applied.  After reviewing their basic structure, I will explain a new appearance of double groupoids and double Morita equivalences in the story. This is joint work with Yucong Jiang (Toronto) and Daniel Alvarez (Toronto).
   notes: gualtieri-2.pdf
+  video: https://youtu.be/-MjLfqvoNdQ
 
 halpernleistner:
   title: The noncommutative minimal model program
   speaker: halpernleistner
   abstract: >
     <p>There are many situations in which the derived category of coherent sheaves on a smooth projective variety admits a semiorthogonal decomposition that reflects something interesting about its geometry. I will present a new unifying framework for studying these semiorthogonal decompositions using Bridgeland stability conditions. Then, I will formulate some conjectures about canonical flows on the space of stability conditions that imply several important conjectures on the structure of derived categories, such as the D-equivalence conjecture and Dubrovin's conjecture.
+  video: https://youtu.be/7ucS2yRsFbc
 
 kaledin:
   title: Non-commutative cristalline cohomology
@@ -68,6 +70,7 @@ kuznetsov:
   speaker: kuznetsov
   abstract: >
     <p>Resolution of singularities from the categorical point of view is an  operation that replaces the derived category of a singular variety by a bigger smooth and proper triangulated category. Absorption of singularities, on a contrary, replaces the derived category of a singular variety by a smaller smooth and proper triangulated category. In the talk I will introduce $\mathbb{P}^\infty$-objects and show how they can be used to absorb singularities of nodal varieties.
+  video: https://youtu.be/F_Ef_Ll3UHU
 
 neeman:
   title: Bounded t-structures on the category of perfect complexes
@@ -90,6 +93,7 @@ perry:
   abstract: >
     <p>Noncommutative K3 surfaces have been intensely studied in recent years, especially in connection to cubic fourfolds and hyperkahler geometry. I will discuss a closely related story for noncommutative Enriques surfaces associated to certain Fano threefolds. In particular, I will explain the resolution of a conjecture of Kuznetsov relating these noncommutative surfaces for different types of Fano threefolds, as well as structural results about their moduli spaces of stable objects. This is based on joint works with Arend Bayer and with Laura Pertusi and Xiaolei Zhao.
   notes: perry.pdf
+  video: https://youtu.be/-T2WvYZQJmU
 
 polishchuk:
   title: Bihamiltonian Feigin-Odesskii structures
@@ -106,6 +110,7 @@ rizzardo:
   abstract: >
     <p>Exact functors between two triangulated categories are a fundamental object of study. Almost all known such functors are so-called Fourier-Mukai: they admit a lift to a functor between enhancements of the two triangulated categories. However, by now we know that non-Fourier-Mukai functors do exist, and they are a prolific source of counterexamples in algebraic geometry.
     <p>In this talk I will review the construction of a non-Fourier-Mukai functor that was originally given by Michel Van den Bergh and myself, and discuss how this construction can be enhanced, generalized, and used to construct several kinds of counterexamples. Part of this talk is joint work with Michel Van den Bergh.
+  video: https://youtu.be/5fcCGYlHeGo
 
 sierra:
   title: Blowing down noncommutative cubic surfaces
@@ -129,6 +134,7 @@ stroppel:
   abstract: >
     <p>In this talk we connect algebras arising in geometric representation theory and categorification with Chow motives. The main tool is hereby tilting objects and weight complex functors.
   notes: stroppel.pdf
+  video: https://youtu.be/9Sw0Sdd51L8
 
 tabuada:
   title: Grothendieck classes of quadric hypersurfaces and involution varieties
@@ -148,6 +154,7 @@ tsygan:
   speaker: tsygan
   abstract: >
     <p>In characteristic zero, a good noncommutative generalization of De Rham cohomology of an algebraic variety is periodic cyclic homology of as associative algebra. In positive or mixed  characteristic, to get a truly general noncommutative generalization of various types of cohomology of schemes, one has to use topological versions of Hochschild and cyclic theory. However, quite a bit could be stated using variations on the usual definitions. I will review four recent constructions: one, by Kaledin, based on noncommutative Witt vectors; another, by Petrov and Vologodsky, based on derived periodic cyclic homology and the Gauss-Manin connection; one by myself, based on operations on cyclic complexes; and one by Cortinas-Cuntz-Meyer-Tamme, based on non-Archimedean topological/bornological methods.
+  video: https://youtu.be/wWcuMwPSZl0
 
 vezzosi:
   title: An analog of the Beilinson-Drinfeld Grassmannian for surfaces
