@@ -31,6 +31,7 @@ gualtieri:
   speaker: gualtieri
   abstract: >
     <p>Generalized Kähler manifolds, which arise as natural target spaces for supersymmetric 2-dimensional sigma models, provide a rich family of examples to which many of the tools of Poisson geometry may be applied.  After reviewing their basic structure, I will explain a new appearance of double groupoids and double Morita equivalences in the story. This is joint work with Yucong Jiang (Toronto) and Daniel Alvarez (Toronto).
+  notes: gualtieri-2.pdf
 
 halpernleistner:
   title: The noncommutative minimal model program
@@ -87,6 +88,7 @@ perry:
   speaker: perry
   abstract: >
     <p>Noncommutative K3 surfaces have been intensely studied in recent years, especially in connection to cubic fourfolds and hyperkahler geometry. I will discuss a closely related story for noncommutative Enriques surfaces associated to certain Fano threefolds. In particular, I will explain the resolution of a conjecture of Kuznetsov relating these noncommutative surfaces for different types of Fano threefolds, as well as structural results about their moduli spaces of stable objects. This is based on joint works with Arend Bayer and with Laura Pertusi and Xiaolei Zhao.
+  notes: perry.pdf
 
 polishchuk:
   title: Bihamiltonian Feigin-Odesskii structures
@@ -125,6 +127,7 @@ stroppel:
   speaker: stroppel
   abstract: >
     <p>In this talk we connect algebras arising in geometric representation theory and categorification with Chow motives. The main tool is hereby tilting objects and weight complex functors.
+  notes: stroppel.pdf
 
 tabuada:
   title: Grothendieck classes of quadric hypersurfaces and involution varieties

@@ -37,6 +37,7 @@ permalink: /schedule
         {% endif %}
 
         <dd class="speaker"><span class="name">{{ speaker.name }}</span> (<span class="affiliation">{{ speaker.affiliation }}</span>)
+          {% if talk.notes %}<br><a href="/assets/{{ talk.notes }}">notes</a>{% endif %}
         </dd>
       {% endif %}
     {% elsif slot.other %}
