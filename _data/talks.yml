@@ -74,6 +74,7 @@ neeman:
   speaker: neeman
   abstract: >
     <p>Van den Bergh's work has greatly influenced mine. The talk will begin with a couple of papers by Van den Bergh that I am much indebted to, and then explain how the proof of a new result, about the non-existence of bounded t-structures on the category of perfect complexes on a scheme $X$, owes the key ideas to these papers by Van den Bergh.
+  notes: neeman.pdf
 
 padurariu:
   title:  Categorical Donaldson-Thomas theory of $\mathbb{C}^3$
