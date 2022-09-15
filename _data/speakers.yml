@@ -44,6 +44,7 @@ keller:
   name: Bernhard Keller
   affiliation: Université Paris Cité
   website: https://webusers.imj-prg.fr/~bernhard.keller/
+  online: true
 
 kuznetsov:
   name: Alexander Kuznetsov
