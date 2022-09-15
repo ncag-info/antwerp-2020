@@ -78,11 +78,6 @@ rizzardo:
   affiliation: University of Liverpool
   website: https://pcwww.liv.ac.uk/~arizzard/
 
-tsygan:
-  name: Boris Tsygan
-  affiliation: Northwestern University
-  website: https://sites.math.northwestern.edu/~tsygan/
-
 sierra:
   name: Sue Sierra
   affiliation: University of Edinburgh
@@ -111,6 +106,11 @@ tabuada:
   affiliation: University of Warwick
   website: https://homepages.warwick.ac.uk/staff/Goncalo.Tabuada/
   online: true
+
+tsygan:
+  name: Boris Tsygan
+  affiliation: Northwestern University
+  website: https://sites.math.northwestern.edu/~tsygan/
 
 vezzosi:
   name: Gabriele Vezzosi
