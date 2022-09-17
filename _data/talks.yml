@@ -25,6 +25,7 @@ gasparim:
     In particular, I will describe the Fukaya category of a symplectic Landau-Ginzburg model that does not have any projective mirrors
     in the sense of an equivalent category of coherent sheaves, and then change the mirror recipe so as to obtain an algebraic mirror
     using Orlov's category of singularities.
+  notes: gasparim.pdf
 
 gualtieri:
   title: Generalized Kähler metrics and double symplectic groupoids
@@ -64,6 +65,7 @@ keller:
   speaker: keller
   abstract: >
     <p>In 2010, Claire Amiot conjectured that algebraic 2-Calabi-Yau categories with cluster-tilting object must come from quivers with potential. This would extend a structure theorem obtained with Idun Reiten in the case where the endomorphism algebra of the cluster-tilting object is hereditary. Many other classes of examples are also known. We will report on recent progress in the general case obtained in joint work with Junyang Liu and based on Van den Bergh's structure theorem for complete Calabi-Yau algebras.
+  notes: keller.pdf
 
 kuznetsov:
   title: Categorical absorption of singularities
@@ -103,6 +105,7 @@ polishchuk:
     We consider Poisson brackets on projective spaces arising from vector bundles on elliptic curves.
     We construct examples of compatible Poisson brackets of this type from exceptional bundles on surfaces.
     In the case of Poisson brackets associated with line bundles we give a geometric criterion of compatibility between the brackets.
+  notes: polishchuk.pdf
 
 rizzardo:
   title: Non-Fourier-Mukai functors and counterexamples in algebraic geometry
