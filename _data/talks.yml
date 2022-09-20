@@ -45,6 +45,7 @@ halpernleistner:
   abstract: >
     <p>There are many situations in which the derived category of coherent sheaves on a smooth projective variety admits a semiorthogonal decomposition that reflects something interesting about its geometry. I will present a new unifying framework for studying these semiorthogonal decompositions using Bridgeland stability conditions. Then, I will formulate some conjectures about canonical flows on the space of stability conditions that imply several important conjectures on the structure of derived categories, such as the D-equivalence conjecture and Dubrovin's conjecture.
   video: https://youtu.be/7ucS2yRsFbc
+  notes: halpernleistner.pdf
 
 kaledin:
   title: Non-commutative cristalline cohomology
