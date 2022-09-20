@@ -157,7 +157,7 @@ tabuada:
   speaker: tabuada
   abstract: >
     <p>The Grothendieck ring of varieties, introduced in a letter from Alexander Grothendieck to Jean-Pierre Serre (August 16th 1964), plays an important role in algebraic geometry. However, despite the efforts of several mathematicians, the structure of this ring still remains poorly understood. In this talk, in order to better understand the Grothendieck ring of varieties, I will describe some new structural properties of the Grothendieck classes of quadric hypersurfaces and involution varieties. More specifically, by combining the recent theory of noncommutative motives with the classical theory of motives, I will show that if two quadric hypersurfaces (or, more generally, two involution varieties) have the same Grothendieck class, then they have the same even Clifford algebra and the same signature. As an application, this implies in numerous cases (e.g., when the base field is a local or global field) that two quadric hypersurfaces (or, more generally, two involution varieties) have the same Grothendieck class if and only if they are isomorphic.
-  video: https://www.youtube.com/watch?v=wdQVhCYFIhI
+  video: https://youtu.be/sRtYuq1QRXs
 
 taelman:
   title: Deformations of Calabi–Yau varieties in mixed characteristic
